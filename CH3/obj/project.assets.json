@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "G:\\_packtpub\\Clean-Code-in-C-\\GoodCodeBadCode\\CH1.csproj",
-      "projectName": "CH1",
-      "projectPath": "G:\\_packtpub\\Clean-Code-in-C-\\GoodCodeBadCode\\CH1.csproj",
+      "projectUniqueName": "G:\\_packtpub\\CH3\\CH3.csproj",
+      "projectName": "CH3",
+      "projectPath": "G:\\_packtpub\\CH3\\CH3.csproj",
       "packagesPath": "C:\\Users\\jason.alls\\.nuget\\packages\\",
-      "outputPath": "G:\\_packtpub\\Clean-Code-in-C-\\GoodCodeBadCode\\obj\\",
+      "outputPath": "G:\\_packtpub\\CH3\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",

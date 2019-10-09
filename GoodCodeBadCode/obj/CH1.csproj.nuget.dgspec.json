@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "G:\\_packtpub\\Clean-Code-in-C-\\GoodCodeBadCode\\GoodCodeBadCode.csproj": {}
+    "G:\\_packtpub\\Clean-Code-in-C-\\GoodCodeBadCode\\CH1.csproj": {}
   },
   "projects": {
-    "G:\\_packtpub\\Clean-Code-in-C-\\GoodCodeBadCode\\GoodCodeBadCode.csproj": {
+    "G:\\_packtpub\\Clean-Code-in-C-\\GoodCodeBadCode\\CH1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\_packtpub\\Clean-Code-in-C-\\GoodCodeBadCode\\GoodCodeBadCode.csproj",
-        "projectName": "GoodCodeBadCode",
-        "projectPath": "G:\\_packtpub\\Clean-Code-in-C-\\GoodCodeBadCode\\GoodCodeBadCode.csproj",
+        "projectUniqueName": "G:\\_packtpub\\Clean-Code-in-C-\\GoodCodeBadCode\\CH1.csproj",
+        "projectName": "CH1",
+        "projectPath": "G:\\_packtpub\\Clean-Code-in-C-\\GoodCodeBadCode\\CH1.csproj",
         "packagesPath": "C:\\Users\\jason.alls\\.nuget\\packages\\",
         "outputPath": "G:\\_packtpub\\Clean-Code-in-C-\\GoodCodeBadCode\\obj\\",
         "projectStyle": "PackageReference",

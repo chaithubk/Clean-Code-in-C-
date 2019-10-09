@@ -1,0 +1,12 @@
+G:\_packtpub\CH3\obj\Debug\netcoreapp3.0\CH3.csprojAssemblyReference.cache
+G:\_packtpub\CH3\obj\Debug\netcoreapp3.0\CH3.AssemblyInfoInputs.cache
+G:\_packtpub\CH3\obj\Debug\netcoreapp3.0\CH3.AssemblyInfo.cs
+G:\_packtpub\CH3\bin\Debug\netcoreapp3.0\CH3.exe
+G:\_packtpub\CH3\bin\Debug\netcoreapp3.0\CH3.deps.json
+G:\_packtpub\CH3\bin\Debug\netcoreapp3.0\CH3.runtimeconfig.json
+G:\_packtpub\CH3\bin\Debug\netcoreapp3.0\CH3.runtimeconfig.dev.json
+G:\_packtpub\CH3\bin\Debug\netcoreapp3.0\CH3.dll
+G:\_packtpub\CH3\bin\Debug\netcoreapp3.0\CH3.pdb
+G:\_packtpub\CH3\bin\Debug\netcoreapp3.0\CH3.xml
+G:\_packtpub\CH3\obj\Debug\netcoreapp3.0\CH3.dll
+G:\_packtpub\CH3\obj\Debug\netcoreapp3.0\CH3.pdb

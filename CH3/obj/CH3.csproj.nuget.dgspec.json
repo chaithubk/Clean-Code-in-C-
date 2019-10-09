@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "G:\\_packtpub\\Clean-Code-in-C-\\GoodCodeBadCode\\GoodCodeBadCode.csproj": {}
+    "G:\\_packtpub\\CH3\\CH3.csproj": {}
   },
   "projects": {
-    "G:\\_packtpub\\Clean-Code-in-C-\\GoodCodeBadCode\\GoodCodeBadCode.csproj": {
+    "G:\\_packtpub\\CH3\\CH3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\_packtpub\\Clean-Code-in-C-\\GoodCodeBadCode\\GoodCodeBadCode.csproj",
-        "projectName": "GoodCodeBadCode",
-        "projectPath": "G:\\_packtpub\\Clean-Code-in-C-\\GoodCodeBadCode\\GoodCodeBadCode.csproj",
+        "projectUniqueName": "G:\\_packtpub\\CH3\\CH3.csproj",
+        "projectName": "CH3",
+        "projectPath": "G:\\_packtpub\\CH3\\CH3.csproj",
         "packagesPath": "C:\\Users\\jason.alls\\.nuget\\packages\\",
-        "outputPath": "G:\\_packtpub\\Clean-Code-in-C-\\GoodCodeBadCode\\obj\\",
+        "outputPath": "G:\\_packtpub\\CH3\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
