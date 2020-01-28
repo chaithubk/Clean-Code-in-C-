@@ -1,0 +1,50 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="CH02\**" />
+    <Compile Remove="CH03\**" />
+    <Compile Remove="CH04\**" />
+    <Compile Remove="CH05\**" />
+    <Compile Remove="CH06\**" />
+    <Compile Remove="CH07\**" />
+    <Compile Remove="CH08\**" />
+    <Compile Remove="CH09\**" />
+    <Compile Remove="CH10\**" />
+    <Compile Remove="CH11\**" />
+    <Compile Remove="CH12\**" />
+    <Compile Remove="CH13\**" />
+    <Compile Remove="CH15\**" />
+    <EmbeddedResource Remove="CH02\**" />
+    <EmbeddedResource Remove="CH03\**" />
+    <EmbeddedResource Remove="CH04\**" />
+    <EmbeddedResource Remove="CH05\**" />
+    <EmbeddedResource Remove="CH06\**" />
+    <EmbeddedResource Remove="CH07\**" />
+    <EmbeddedResource Remove="CH08\**" />
+    <EmbeddedResource Remove="CH09\**" />
+    <EmbeddedResource Remove="CH10\**" />
+    <EmbeddedResource Remove="CH11\**" />
+    <EmbeddedResource Remove="CH12\**" />
+    <EmbeddedResource Remove="CH13\**" />
+    <EmbeddedResource Remove="CH15\**" />
+    <None Remove="CH02\**" />
+    <None Remove="CH03\**" />
+    <None Remove="CH04\**" />
+    <None Remove="CH05\**" />
+    <None Remove="CH06\**" />
+    <None Remove="CH07\**" />
+    <None Remove="CH08\**" />
+    <None Remove="CH09\**" />
+    <None Remove="CH10\**" />
+    <None Remove="CH11\**" />
+    <None Remove="CH12\**" />
+    <None Remove="CH13\**" />
+    <None Remove="CH15\**" />
+  </ItemGroup>
+
+</Project>
