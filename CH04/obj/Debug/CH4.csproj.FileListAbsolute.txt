@@ -1,0 +1,5 @@
+D:\_packtpub\Clean-Code-in-C-\CH04\bin\Debug\CH4.dll
+D:\_packtpub\Clean-Code-in-C-\CH04\bin\Debug\CH4.pdb
+D:\_packtpub\Clean-Code-in-C-\CH04\obj\Debug\CH4.csprojAssemblyReference.cache
+D:\_packtpub\Clean-Code-in-C-\CH04\obj\Debug\CH4.dll
+D:\_packtpub\Clean-Code-in-C-\CH04\obj\Debug\CH4.pdb

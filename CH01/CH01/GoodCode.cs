@@ -74,7 +74,7 @@ namespace GoodCodeBadCode.CH01
         }
     }
 
-    public class UnitOfWork : IDisposable() 
+    public class UnitOfWork : IDisposable
     {
         #region IDisposable Support
         private bool disposedValue = false; // To detect redundant calls

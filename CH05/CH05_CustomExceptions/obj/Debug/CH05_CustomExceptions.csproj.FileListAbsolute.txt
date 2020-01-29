@@ -4,3 +4,8 @@ D:\Development\Clean-Code-in-C-\CH05_CustomExceptions\bin\Debug\CH05_CustomExcep
 D:\Development\Clean-Code-in-C-\CH05_CustomExceptions\obj\Debug\CH05_CustomExceptions.csprojAssemblyReference.cache
 D:\Development\Clean-Code-in-C-\CH05_CustomExceptions\obj\Debug\CH05_CustomExceptions.exe
 D:\Development\Clean-Code-in-C-\CH05_CustomExceptions\obj\Debug\CH05_CustomExceptions.pdb
+D:\_packtpub\Clean-Code-in-C-\CH05\CH05_CustomExceptions\bin\Debug\CH05_CustomExceptions.exe.config
+D:\_packtpub\Clean-Code-in-C-\CH05\CH05_CustomExceptions\bin\Debug\CH05_CustomExceptions.exe
+D:\_packtpub\Clean-Code-in-C-\CH05\CH05_CustomExceptions\bin\Debug\CH05_CustomExceptions.pdb
+D:\_packtpub\Clean-Code-in-C-\CH05\CH05_CustomExceptions\obj\Debug\CH05_CustomExceptions.exe
+D:\_packtpub\Clean-Code-in-C-\CH05\CH05_CustomExceptions\obj\Debug\CH05_CustomExceptions.pdb

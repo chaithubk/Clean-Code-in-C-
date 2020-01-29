@@ -47,4 +47,8 @@
     <None Remove="CH15\**" />
   </ItemGroup>
 
+  <ItemGroup>
+    <PackageReference Include="mstest.testframework" Version="2.0.0" />
+  </ItemGroup>
+
 </Project>

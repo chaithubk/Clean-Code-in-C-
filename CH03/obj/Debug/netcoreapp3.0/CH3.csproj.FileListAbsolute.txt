@@ -10,3 +10,14 @@ G:\_packtpub\CH3\bin\Debug\netcoreapp3.0\CH3.pdb
 G:\_packtpub\CH3\bin\Debug\netcoreapp3.0\CH3.xml
 G:\_packtpub\CH3\obj\Debug\netcoreapp3.0\CH3.dll
 G:\_packtpub\CH3\obj\Debug\netcoreapp3.0\CH3.pdb
+D:\_packtpub\Clean-Code-in-C-\CH03\obj\Debug\netcoreapp3.0\CH3.csprojAssemblyReference.cache
+D:\_packtpub\Clean-Code-in-C-\CH03\obj\Debug\netcoreapp3.0\CH3.AssemblyInfoInputs.cache
+D:\_packtpub\Clean-Code-in-C-\CH03\obj\Debug\netcoreapp3.0\CH3.AssemblyInfo.cs
+D:\_packtpub\Clean-Code-in-C-\CH03\obj\Debug\netcoreapp3.0\CH3.dll
+D:\_packtpub\Clean-Code-in-C-\CH03\obj\Debug\netcoreapp3.0\CH3.pdb
+D:\_packtpub\Clean-Code-in-C-\CH03\bin\Debug\netcoreapp3.0\CH3.exe
+D:\_packtpub\Clean-Code-in-C-\CH03\bin\Debug\netcoreapp3.0\CH3.deps.json
+D:\_packtpub\Clean-Code-in-C-\CH03\bin\Debug\netcoreapp3.0\CH3.runtimeconfig.json
+D:\_packtpub\Clean-Code-in-C-\CH03\bin\Debug\netcoreapp3.0\CH3.runtimeconfig.dev.json
+D:\_packtpub\Clean-Code-in-C-\CH03\bin\Debug\netcoreapp3.0\CH3.dll
+D:\_packtpub\Clean-Code-in-C-\CH03\bin\Debug\netcoreapp3.0\CH3.pdb

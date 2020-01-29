@@ -1,0 +1,5 @@
+D:\_packtpub\Clean-Code-in-C-\CH06_MSTestUnitTesting\bin\Debug\CH06_MSTestUnitTesting.exe.config
+D:\_packtpub\Clean-Code-in-C-\CH06_MSTestUnitTesting\bin\Debug\CH06_MSTestUnitTesting.exe
+D:\_packtpub\Clean-Code-in-C-\CH06_MSTestUnitTesting\bin\Debug\CH06_MSTestUnitTesting.pdb
+D:\_packtpub\Clean-Code-in-C-\CH06_MSTestUnitTesting\obj\Debug\CH06_MSTestUnitTesting.exe
+D:\_packtpub\Clean-Code-in-C-\CH06_MSTestUnitTesting\obj\Debug\CH06_MSTestUnitTesting.pdb

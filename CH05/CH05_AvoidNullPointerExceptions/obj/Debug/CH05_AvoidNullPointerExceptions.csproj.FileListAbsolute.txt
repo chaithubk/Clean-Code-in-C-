@@ -4,3 +4,8 @@ D:\Development\Clean-Code-in-C-\CH05_AvoidNullPointerExceptions\bin\Debug\CH05_A
 D:\Development\Clean-Code-in-C-\CH05_AvoidNullPointerExceptions\obj\Debug\CH05_AvoidNullPointerExceptions.csprojAssemblyReference.cache
 D:\Development\Clean-Code-in-C-\CH05_AvoidNullPointerExceptions\obj\Debug\CH05_AvoidNullPointerExceptions.exe
 D:\Development\Clean-Code-in-C-\CH05_AvoidNullPointerExceptions\obj\Debug\CH05_AvoidNullPointerExceptions.pdb
+D:\_packtpub\Clean-Code-in-C-\CH05\CH05_AvoidNullPointerExceptions\bin\Debug\CH05_AvoidNullPointerExceptions.exe.config
+D:\_packtpub\Clean-Code-in-C-\CH05\CH05_AvoidNullPointerExceptions\bin\Debug\CH05_AvoidNullPointerExceptions.exe
+D:\_packtpub\Clean-Code-in-C-\CH05\CH05_AvoidNullPointerExceptions\bin\Debug\CH05_AvoidNullPointerExceptions.pdb
+D:\_packtpub\Clean-Code-in-C-\CH05\CH05_AvoidNullPointerExceptions\obj\Debug\CH05_AvoidNullPointerExceptions.exe
+D:\_packtpub\Clean-Code-in-C-\CH05\CH05_AvoidNullPointerExceptions\obj\Debug\CH05_AvoidNullPointerExceptions.pdb

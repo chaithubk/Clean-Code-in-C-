@@ -61,7 +61,7 @@ namespace GoodCodeBadCode.CH01
             public int Description;
             public string ProductCode;
             public decimal Price;
-            public long UnitsInStock
+            public long UnitsInStock;
         }
     }
 
