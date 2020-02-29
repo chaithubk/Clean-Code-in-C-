@@ -1,0 +1,5 @@
+D:\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow.Calculator\bin\Debug\CH06_SpecFlow.Calculator.dll
+D:\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow.Calculator\bin\Debug\CH06_SpecFlow.Calculator.pdb
+D:\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow.Calculator\obj\Debug\CH06_SpecFlow.Calculator.csprojAssemblyReference.cache
+D:\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow.Calculator\obj\Debug\CH06_SpecFlow.Calculator.dll
+D:\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow.Calculator\obj\Debug\CH06_SpecFlow.Calculator.pdb

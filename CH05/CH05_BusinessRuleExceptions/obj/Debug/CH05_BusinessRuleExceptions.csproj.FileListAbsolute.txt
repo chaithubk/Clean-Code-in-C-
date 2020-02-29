@@ -9,3 +9,8 @@ D:\_packtpub\Clean-Code-in-C-\CH05\CH05_BusinessRuleExceptions\bin\Debug\CH05_Bu
 D:\_packtpub\Clean-Code-in-C-\CH05\CH05_BusinessRuleExceptions\bin\Debug\CH05_BusinessRuleExceptions.pdb
 D:\_packtpub\Clean-Code-in-C-\CH05\CH05_BusinessRuleExceptions\obj\Debug\CH05_BusinessRuleExceptions.exe
 D:\_packtpub\Clean-Code-in-C-\CH05\CH05_BusinessRuleExceptions\obj\Debug\CH05_BusinessRuleExceptions.pdb
+M:\Data\_packtpub\Clean-Code-in-C-\CH05\CH05_BusinessRuleExceptions\bin\Debug\CH05_BusinessRuleExceptions.exe.config
+M:\Data\_packtpub\Clean-Code-in-C-\CH05\CH05_BusinessRuleExceptions\bin\Debug\CH05_BusinessRuleExceptions.exe
+M:\Data\_packtpub\Clean-Code-in-C-\CH05\CH05_BusinessRuleExceptions\bin\Debug\CH05_BusinessRuleExceptions.pdb
+M:\Data\_packtpub\Clean-Code-in-C-\CH05\CH05_BusinessRuleExceptions\obj\Debug\CH05_BusinessRuleExceptions.exe
+M:\Data\_packtpub\Clean-Code-in-C-\CH05\CH05_BusinessRuleExceptions\obj\Debug\CH05_BusinessRuleExceptions.pdb

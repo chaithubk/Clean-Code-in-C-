@@ -1,0 +1,5 @@
+D:\_packtpub\Clean-Code-in-C-\CH06_NUnitTesting\bin\Debug\CH06_NUnitTesting.exe.config
+D:\_packtpub\Clean-Code-in-C-\CH06_NUnitTesting\bin\Debug\CH06_NUnitTesting.exe
+D:\_packtpub\Clean-Code-in-C-\CH06_NUnitTesting\bin\Debug\CH06_NUnitTesting.pdb
+D:\_packtpub\Clean-Code-in-C-\CH06_NUnitTesting\obj\Debug\CH06_NUnitTesting.exe
+D:\_packtpub\Clean-Code-in-C-\CH06_NUnitTesting\obj\Debug\CH06_NUnitTesting.pdb

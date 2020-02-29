@@ -1,0 +1,6 @@
+M:\Data\_packtpub\Clean-Code-in-C-\CH07\CH07_Factories\obj\Debug\CH07_Factories.csprojAssemblyReference.cache
+M:\Data\_packtpub\Clean-Code-in-C-\CH07\CH07_Factories\bin\Debug\CH07_Factories.exe
+M:\Data\_packtpub\Clean-Code-in-C-\CH07\CH07_Factories\bin\Debug\CH07_Factories.pdb
+M:\Data\_packtpub\Clean-Code-in-C-\CH07\CH07_Factories\obj\Debug\CH07_Factories.exe
+M:\Data\_packtpub\Clean-Code-in-C-\CH07\CH07_Factories\obj\Debug\CH07_Factories.pdb
+M:\Data\_packtpub\Clean-Code-in-C-\CH07\CH07_Factories\bin\Debug\CH07_Factories.exe.config

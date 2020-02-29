@@ -1,0 +1,9 @@
+D:\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow.Implementation\bin\Debug\CH06_SpecFlow.Implementation.dll
+D:\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow.Implementation\bin\Debug\CH06_SpecFlow.Implementation.pdb
+D:\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow.Implementation\obj\Debug\CH06_SpecFlow.Implementation.dll
+D:\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow.Implementation\obj\Debug\CH06_SpecFlow.Implementation.pdb
+M:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow.Implementation\bin\Debug\CH06_SpecFlow.Implementation.dll
+M:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow.Implementation\bin\Debug\CH06_SpecFlow.Implementation.pdb
+M:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow.Implementation\obj\Debug\CH06_SpecFlow.Implementation.csprojAssemblyReference.cache
+M:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow.Implementation\obj\Debug\CH06_SpecFlow.Implementation.dll
+M:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow.Implementation\obj\Debug\CH06_SpecFlow.Implementation.pdb

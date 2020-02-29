@@ -1,6 +1,4 @@
 D:\_packtpub\Clean-Code-in-C-\CH01\bin\Debug\netcoreapp3.0\CH1.exe
-D:\_packtpub\Clean-Code-in-C-\CH01\obj\Debug\netcoreapp3.0\CH1.AssemblyInfoInputs.cache
-D:\_packtpub\Clean-Code-in-C-\CH01\obj\Debug\netcoreapp3.0\CH1.AssemblyInfo.cs
 D:\_packtpub\Clean-Code-in-C-\CH01\bin\Debug\netcoreapp3.0\CH1.deps.json
 D:\_packtpub\Clean-Code-in-C-\CH01\bin\Debug\netcoreapp3.0\CH1.runtimeconfig.json
 D:\_packtpub\Clean-Code-in-C-\CH01\bin\Debug\netcoreapp3.0\CH1.runtimeconfig.dev.json
@@ -8,7 +6,12 @@ D:\_packtpub\Clean-Code-in-C-\CH01\bin\Debug\netcoreapp3.0\CH1.dll
 D:\_packtpub\Clean-Code-in-C-\CH01\bin\Debug\netcoreapp3.0\CH1.pdb
 D:\_packtpub\Clean-Code-in-C-\CH01\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
 D:\_packtpub\Clean-Code-in-C-\CH01\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\_packtpub\Clean-Code-in-C-\CH01\obj\Debug\netcoreapp3.0\CH1.csprojAssemblyReference.cache
+D:\_packtpub\Clean-Code-in-C-\CH01\obj\Debug\netcoreapp3.0\CH1.AssemblyInfoInputs.cache
+D:\_packtpub\Clean-Code-in-C-\CH01\obj\Debug\netcoreapp3.0\CH1.AssemblyInfo.cs
 D:\_packtpub\Clean-Code-in-C-\CH01\obj\Debug\netcoreapp3.0\CH1.csproj.CopyComplete
 D:\_packtpub\Clean-Code-in-C-\CH01\obj\Debug\netcoreapp3.0\CH1.dll
 D:\_packtpub\Clean-Code-in-C-\CH01\obj\Debug\netcoreapp3.0\CH1.pdb
-D:\_packtpub\Clean-Code-in-C-\CH01\obj\Debug\netcoreapp3.0\CH1.csprojAssemblyReference.cache
+E:\_packtpub\Clean-Code-in-C-\CH01\obj\Debug\netcoreapp3.0\CH1.csprojAssemblyReference.cache
+E:\_packtpub\Clean-Code-in-C-\CH01\obj\Debug\netcoreapp3.0\CH1.AssemblyInfoInputs.cache
+E:\_packtpub\Clean-Code-in-C-\CH01\obj\Debug\netcoreapp3.0\CH1.AssemblyInfo.cs

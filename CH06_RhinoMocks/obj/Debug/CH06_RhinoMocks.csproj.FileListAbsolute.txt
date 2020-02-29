@@ -1,0 +1,8 @@
+D:\_packtpub\Clean-Code-in-C-\CH06_RhinoMocks\bin\Debug\CH06_RhinoMocks.exe.config
+D:\_packtpub\Clean-Code-in-C-\CH06_RhinoMocks\bin\Debug\CH06_RhinoMocks.exe
+D:\_packtpub\Clean-Code-in-C-\CH06_RhinoMocks\bin\Debug\CH06_RhinoMocks.pdb
+D:\_packtpub\Clean-Code-in-C-\CH06_RhinoMocks\bin\Debug\Rhino.Mocks.dll
+D:\_packtpub\Clean-Code-in-C-\CH06_RhinoMocks\obj\Debug\CH06_RhinoMocks.csprojAssemblyReference.cache
+D:\_packtpub\Clean-Code-in-C-\CH06_RhinoMocks\obj\Debug\CH06_RhinoMocks.csproj.CopyComplete
+D:\_packtpub\Clean-Code-in-C-\CH06_RhinoMocks\obj\Debug\CH06_RhinoMocks.exe
+D:\_packtpub\Clean-Code-in-C-\CH06_RhinoMocks\obj\Debug\CH06_RhinoMocks.pdb

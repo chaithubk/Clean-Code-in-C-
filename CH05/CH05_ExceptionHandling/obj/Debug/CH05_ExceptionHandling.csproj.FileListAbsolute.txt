@@ -9,3 +9,8 @@ D:\_packtpub\Clean-Code-in-C-\CH05\CH05_ExceptionHandling\bin\Debug\CH05_Excepti
 D:\_packtpub\Clean-Code-in-C-\CH05\CH05_ExceptionHandling\bin\Debug\CH05_ExceptionHandling.pdb
 D:\_packtpub\Clean-Code-in-C-\CH05\CH05_ExceptionHandling\obj\Debug\CH05_ExceptionHandling.exe
 D:\_packtpub\Clean-Code-in-C-\CH05\CH05_ExceptionHandling\obj\Debug\CH05_ExceptionHandling.pdb
+M:\Data\_packtpub\Clean-Code-in-C-\CH05\CH05_ExceptionHandling\bin\Debug\CH05_ExceptionHandling.exe.config
+M:\Data\_packtpub\Clean-Code-in-C-\CH05\CH05_ExceptionHandling\bin\Debug\CH05_ExceptionHandling.exe
+M:\Data\_packtpub\Clean-Code-in-C-\CH05\CH05_ExceptionHandling\bin\Debug\CH05_ExceptionHandling.pdb
+M:\Data\_packtpub\Clean-Code-in-C-\CH05\CH05_ExceptionHandling\obj\Debug\CH05_ExceptionHandling.exe
+M:\Data\_packtpub\Clean-Code-in-C-\CH05\CH05_ExceptionHandling\obj\Debug\CH05_ExceptionHandling.pdb

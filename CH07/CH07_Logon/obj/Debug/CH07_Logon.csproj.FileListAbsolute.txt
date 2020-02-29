@@ -1,0 +1,12 @@
+E:\_packtpub\Clean-Code-in-C-\CH07_Logon\obj\Debug\CH07_Logon.csprojAssemblyReference.cache
+E:\_packtpub\Clean-Code-in-C-\CH07_Logon\bin\Debug\CH07_Logon.exe.config
+E:\_packtpub\Clean-Code-in-C-\CH07_Logon\bin\Debug\CH07_Logon.exe
+E:\_packtpub\Clean-Code-in-C-\CH07_Logon\bin\Debug\CH07_Logon.pdb
+E:\_packtpub\Clean-Code-in-C-\CH07_Logon\obj\Debug\CH07_Logon.exe
+E:\_packtpub\Clean-Code-in-C-\CH07_Logon\obj\Debug\CH07_Logon.pdb
+M:\Data\_packtpub\Clean-Code-in-C-\CH07_Logon\bin\Debug\CH07_Logon.exe.config
+M:\Data\_packtpub\Clean-Code-in-C-\CH07_Logon\bin\Debug\CH07_Logon.exe
+M:\Data\_packtpub\Clean-Code-in-C-\CH07_Logon\bin\Debug\CH07_Logon.pdb
+M:\Data\_packtpub\Clean-Code-in-C-\CH07_Logon\obj\Debug\CH07_Logon.exe
+M:\Data\_packtpub\Clean-Code-in-C-\CH07_Logon\obj\Debug\CH07_Logon.pdb
+M:\Data\_packtpub\Clean-Code-in-C-\CH07_Logon\obj\Debug\CH07_Logon.csprojAssemblyReference.cache

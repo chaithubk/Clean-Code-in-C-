@@ -9,3 +9,8 @@ D:\_packtpub\Clean-Code-in-C-\CH05\CH05_AvoidNullPointerExceptions\bin\Debug\CH0
 D:\_packtpub\Clean-Code-in-C-\CH05\CH05_AvoidNullPointerExceptions\bin\Debug\CH05_AvoidNullPointerExceptions.pdb
 D:\_packtpub\Clean-Code-in-C-\CH05\CH05_AvoidNullPointerExceptions\obj\Debug\CH05_AvoidNullPointerExceptions.exe
 D:\_packtpub\Clean-Code-in-C-\CH05\CH05_AvoidNullPointerExceptions\obj\Debug\CH05_AvoidNullPointerExceptions.pdb
+M:\Data\_packtpub\Clean-Code-in-C-\CH05\CH05_AvoidNullPointerExceptions\bin\Debug\CH05_AvoidNullPointerExceptions.exe.config
+M:\Data\_packtpub\Clean-Code-in-C-\CH05\CH05_AvoidNullPointerExceptions\bin\Debug\CH05_AvoidNullPointerExceptions.exe
+M:\Data\_packtpub\Clean-Code-in-C-\CH05\CH05_AvoidNullPointerExceptions\bin\Debug\CH05_AvoidNullPointerExceptions.pdb
+M:\Data\_packtpub\Clean-Code-in-C-\CH05\CH05_AvoidNullPointerExceptions\obj\Debug\CH05_AvoidNullPointerExceptions.exe
+M:\Data\_packtpub\Clean-Code-in-C-\CH05\CH05_AvoidNullPointerExceptions\obj\Debug\CH05_AvoidNullPointerExceptions.pdb

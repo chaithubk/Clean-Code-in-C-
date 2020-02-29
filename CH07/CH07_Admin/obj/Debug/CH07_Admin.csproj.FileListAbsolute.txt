@@ -1,0 +1,12 @@
+E:\_packtpub\Clean-Code-in-C-\CH07_Admin\bin\Debug\CH07_Admin.exe.config
+E:\_packtpub\Clean-Code-in-C-\CH07_Admin\bin\Debug\CH07_Admin.exe
+E:\_packtpub\Clean-Code-in-C-\CH07_Admin\bin\Debug\CH07_Admin.pdb
+E:\_packtpub\Clean-Code-in-C-\CH07_Admin\obj\Debug\CH07_Admin.exe
+E:\_packtpub\Clean-Code-in-C-\CH07_Admin\obj\Debug\CH07_Admin.pdb
+E:\_packtpub\Clean-Code-in-C-\CH07_Admin\obj\Debug\CH07_Admin.csprojAssemblyReference.cache
+M:\Data\_packtpub\Clean-Code-in-C-\CH07_Admin\bin\Debug\CH07_Admin.exe.config
+M:\Data\_packtpub\Clean-Code-in-C-\CH07_Admin\bin\Debug\CH07_Admin.exe
+M:\Data\_packtpub\Clean-Code-in-C-\CH07_Admin\bin\Debug\CH07_Admin.pdb
+M:\Data\_packtpub\Clean-Code-in-C-\CH07_Admin\obj\Debug\CH07_Admin.exe
+M:\Data\_packtpub\Clean-Code-in-C-\CH07_Admin\obj\Debug\CH07_Admin.pdb
+M:\Data\_packtpub\Clean-Code-in-C-\CH07_Admin\obj\Debug\CH07_Admin.csprojAssemblyReference.cache
