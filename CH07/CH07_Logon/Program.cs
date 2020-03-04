@@ -28,12 +28,17 @@ namespace CH07_Logon
         {
             if (usr.Equals("admin") && pwd.Equals("letmein"))
             {
-                Process.Start(@"E:\_packtpub\Clean-Code-in-C-\CH07_Admin\bin\Debug\CH07_Admin.exe");
-                return;
+                var process = new Process();
+                process.StartInfo.FileName = @"..\..\..\CH07_Admin\bin\Debug\CH07_Admin.exe";
+                process.StartInfo.Arguments = "admin";
+                process.Start();
             }
             else if (usr.Equals("student") && pwd.Equals("letmein"))
             {
-                Process.Start(@"E:\_packtpub\Clean-Code-in-C-\CH07_Test\bin\Debug\CH07_Test.exe");
+                var process = new Process();
+                process.StartInfo.FileName = @"..\..\..\CH07_Test\bin\Debug\CH07_Test.exe";
+                process.StartInfo.Arguments = "test";
+                process.Start();
             }
             else
             {

@@ -10,3 +10,9 @@ M:\Data\_packtpub\Clean-Code-in-C-\CH07_Test\bin\Debug\CH07_Test.pdb
 M:\Data\_packtpub\Clean-Code-in-C-\CH07_Test\obj\Debug\CH07_Test.csprojAssemblyReference.cache
 M:\Data\_packtpub\Clean-Code-in-C-\CH07_Test\obj\Debug\CH07_Test.exe
 M:\Data\_packtpub\Clean-Code-in-C-\CH07_Test\obj\Debug\CH07_Test.pdb
+G:\Data\_packtpub\Clean-Code-in-C-\CH07\CH07_Test\obj\Debug\CH07_Test.csprojAssemblyReference.cache
+G:\Data\_packtpub\Clean-Code-in-C-\CH07\CH07_Test\obj\Debug\CH07_Test.exe
+G:\Data\_packtpub\Clean-Code-in-C-\CH07\CH07_Test\obj\Debug\CH07_Test.pdb
+G:\Data\_packtpub\Clean-Code-in-C-\CH07\CH07_Test\bin\Debug\CH07_Test.exe.config
+G:\Data\_packtpub\Clean-Code-in-C-\CH07\CH07_Test\bin\Debug\CH07_Test.exe
+G:\Data\_packtpub\Clean-Code-in-C-\CH07\CH07_Test\bin\Debug\CH07_Test.pdb

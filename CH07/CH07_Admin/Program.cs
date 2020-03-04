@@ -11,7 +11,14 @@ namespace CH07_Admin
     {
         private static void Main(string[] args)
         {
-            DisplayMainScreen();
+            if ((args.Count() > 0) && (args[0].Equals("admin")))
+            {
+                DisplayMainScreen();
+            }
+            else
+            {
+                DisplayMainScreenError();
+            }
         }
 
         private static void DisplayMainScreen()
@@ -21,7 +28,18 @@ namespace CH07_Admin
             Console.WriteLine("------------------------------------");
             Console.WriteLine("Press any key to exit");
             Console.ReadKey();
-            Process.Start(@"E:\_packtpub\Clean-Code-in-C-\CH07_Logon\bin\Debug\CH07_Logon.exe");
+            Process.Start(@"..\..\..\CH07_Logon\bin\Debug\CH07_Logon.exe");
+        }
+
+        private static void DisplayMainScreenError()
+        {
+            Console.WriteLine("------------------------------------");
+            Console.WriteLine("Test Platform Administrator Console");
+            Console.WriteLine("------------------------------------");
+            Console.WriteLine("You must login to use the admin module.");
+            Console.WriteLine("Press any key to exit");
+            Console.ReadKey();
+            Process.Start(@"..\..\..\CH07_Logon\bin\Debug\CH07_Logon.exe");
         }
     }
 }

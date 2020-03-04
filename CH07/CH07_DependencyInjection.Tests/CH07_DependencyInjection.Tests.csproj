@@ -5,7 +5,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{E6293234-DD75-4C45-9FD6-F8196984613E}</ProjectGuid>
+    <ProjectGuid>{CC70ADC2-24AB-4640-BEF9-BBCD8E0FAA5D}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>CH07_DependencyInjection.Tests</RootNamespace>
@@ -49,14 +49,14 @@
     <Reference Include="System.Core" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="UnitTest1.cs" />
+    <Compile Include="UnitTests.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\..\CH07_DependencyInjection\CH07_DependencyInjection.csproj">
+    <ProjectReference Include="..\CH07_DependencyInjection\CH07_DependencyInjection.csproj">
       <Project>{395f8c46-35de-4753-87ea-7804221606f2}</Project>
       <Name>CH07_DependencyInjection</Name>
     </ProjectReference>

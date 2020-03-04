@@ -4,7 +4,7 @@ using System.Reflection;
 
 namespace CH07_DependencyInjection
 {
-    public static class DependencyContainer
+    public class DependencyContainer
     {
         public static readonly IDictionary<Type, Type> Types = new Dictionary<Type, Type>();
         public static readonly IDictionary<Type, object> Instances = new Dictionary<Type, object>();
