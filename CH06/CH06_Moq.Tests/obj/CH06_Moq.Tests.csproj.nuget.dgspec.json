@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "D:\\_packtpub\\Clean-Code-in-C-\\CH06\\CH06_Moq.Tests\\CH06_Moq.Tests.csproj": {}
+    "G:\\Data\\_packtpub\\Clean-Code-in-C-\\CH06\\CH06_Moq.Tests\\CH06_Moq.Tests.csproj": {}
   },
   "projects": {
-    "D:\\_packtpub\\Clean-Code-in-C-\\CH06\\CH06_Moq.Tests\\CH06_Moq.Tests.csproj": {
+    "G:\\Data\\_packtpub\\Clean-Code-in-C-\\CH06\\CH06_Moq.Tests\\CH06_Moq.Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\_packtpub\\Clean-Code-in-C-\\CH06\\CH06_Moq.Tests\\CH06_Moq.Tests.csproj",
+        "projectUniqueName": "G:\\Data\\_packtpub\\Clean-Code-in-C-\\CH06\\CH06_Moq.Tests\\CH06_Moq.Tests.csproj",
         "projectName": "CH06_Moq.Tests",
-        "projectPath": "D:\\_packtpub\\Clean-Code-in-C-\\CH06\\CH06_Moq.Tests\\CH06_Moq.Tests.csproj",
-        "packagesPath": "C:\\Users\\jason\\.nuget\\packages\\",
-        "outputPath": "D:\\_packtpub\\Clean-Code-in-C-\\CH06\\CH06_Moq.Tests\\obj\\",
+        "projectPath": "G:\\Data\\_packtpub\\Clean-Code-in-C-\\CH06\\CH06_Moq.Tests\\CH06_Moq.Tests.csproj",
+        "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
+        "outputPath": "G:\\Data\\_packtpub\\Clean-Code-in-C-\\CH06\\CH06_Moq.Tests\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\jason\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
@@ -26,16 +26,11 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "D:\\_NUGET_INTERNAL_PACKAGES": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netcoreapp3.1": {
-            "projectReferences": {
-              "D:\\_packtpub\\Clean-Code-in-C-\\CH06\\CH06_Moq\\CH06_Moq.csproj": {
-                "projectPath": "D:\\_packtpub\\Clean-Code-in-C-\\CH06\\CH06_Moq\\CH06_Moq.csproj"
-              }
-            }
+            "projectReferences": {}
           }
         },
         "warningProperties": {
@@ -76,60 +71,6 @@
             }
           },
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
-        }
-      }
-    },
-    "D:\\_packtpub\\Clean-Code-in-C-\\CH06\\CH06_Moq\\CH06_Moq.csproj": {
-      "version": "1.0.0",
-      "restore": {
-        "projectUniqueName": "D:\\_packtpub\\Clean-Code-in-C-\\CH06\\CH06_Moq\\CH06_Moq.csproj",
-        "projectName": "CH06_Moq",
-        "projectPath": "D:\\_packtpub\\Clean-Code-in-C-\\CH06\\CH06_Moq\\CH06_Moq.csproj",
-        "packagesPath": "C:\\Users\\jason\\.nuget\\packages\\",
-        "outputPath": "D:\\_packtpub\\Clean-Code-in-C-\\CH06\\CH06_Moq\\obj\\",
-        "projectStyle": "PackageReference",
-        "skipContentFileWrite": true,
-        "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\"
-        ],
-        "configFilePaths": [
-          "C:\\Users\\jason\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
-        ],
-        "originalTargetFrameworks": [
-          "net48"
-        ],
-        "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "D:\\_NUGET_INTERNAL_PACKAGES": {},
-          "https://api.nuget.org/v3/index.json": {}
-        },
-        "frameworks": {
-          "net48": {
-            "projectReferences": {}
-          }
-        }
-      },
-      "frameworks": {
-        "net48": {
-          "dependencies": {
-            "Moq": {
-              "target": "Package",
-              "version": "[4.13.1, )"
-            }
-          }
-        }
-      },
-      "runtimes": {
-        "win": {
-          "#import": []
-        },
-        "win-x64": {
-          "#import": []
-        },
-        "win-x86": {
-          "#import": []
         }
       }
     }

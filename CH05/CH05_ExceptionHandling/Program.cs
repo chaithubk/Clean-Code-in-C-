@@ -11,6 +11,15 @@ namespace CH05_ExceptionHandling
     {
         static byte y, z;
 
+        private static void UncheckedBankAccountException()
+        {
+            var currentBalance = int.MaxValue;
+            Console.WriteLine($"Current Balance: {currentBalance}");
+            currentBalance = unchecked(currentBalance + 1);
+            Console.WriteLine($"Current Balance + 1 = {currentBalance}");
+            Console.ReadKey();
+        }
+
         private static void CheckedAdd()
         {
             try
@@ -69,6 +78,7 @@ namespace CH05_ExceptionHandling
 
         static void Main(string[] args)
         {
+            UncheckedBankAccountException();
             y = byte.MaxValue;
             z = 2;
             CheckedAdd();

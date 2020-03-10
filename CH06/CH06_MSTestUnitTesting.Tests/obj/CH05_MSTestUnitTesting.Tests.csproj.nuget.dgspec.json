@@ -1,24 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "D:\\_packtpub\\Clean-Code-in-C-\\CH05_MSTestUnitTesting.Tests\\CH05_MSTestUnitTesting.Tests.csproj": {}
+    "G:\\Data\\_packtpub\\Clean-Code-in-C-\\CH06\\CH06_MSTestUnitTesting.Tests\\CH05_MSTestUnitTesting.Tests.csproj": {}
   },
   "projects": {
-    "D:\\_packtpub\\Clean-Code-in-C-\\CH05_MSTestUnitTesting.Tests\\CH05_MSTestUnitTesting.Tests.csproj": {
+    "G:\\Data\\_packtpub\\Clean-Code-in-C-\\CH06\\CH06_MSTestUnitTesting.Tests\\CH05_MSTestUnitTesting.Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\_packtpub\\Clean-Code-in-C-\\CH05_MSTestUnitTesting.Tests\\CH05_MSTestUnitTesting.Tests.csproj",
+        "projectUniqueName": "G:\\Data\\_packtpub\\Clean-Code-in-C-\\CH06\\CH06_MSTestUnitTesting.Tests\\CH05_MSTestUnitTesting.Tests.csproj",
         "projectName": "CH05_MSTestUnitTesting.Tests",
-        "projectPath": "D:\\_packtpub\\Clean-Code-in-C-\\CH05_MSTestUnitTesting.Tests\\CH05_MSTestUnitTesting.Tests.csproj",
-        "packagesPath": "C:\\Users\\jason\\.nuget\\packages\\",
-        "outputPath": "D:\\_packtpub\\Clean-Code-in-C-\\CH05_MSTestUnitTesting.Tests\\obj\\",
+        "projectPath": "G:\\Data\\_packtpub\\Clean-Code-in-C-\\CH06\\CH06_MSTestUnitTesting.Tests\\CH05_MSTestUnitTesting.Tests.csproj",
+        "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
+        "outputPath": "G:\\Data\\_packtpub\\Clean-Code-in-C-\\CH06\\CH06_MSTestUnitTesting.Tests\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\jason\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
@@ -27,14 +27,13 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "D:\\_NUGET_INTERNAL_PACKAGES": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net48": {
             "projectReferences": {
-              "D:\\_packtpub\\Clean-Code-in-C-\\CH06_MSTestUnitTesting\\CH06_MSTestUnitTesting.csproj": {
-                "projectPath": "D:\\_packtpub\\Clean-Code-in-C-\\CH06_MSTestUnitTesting\\CH06_MSTestUnitTesting.csproj"
+              "G:\\Data\\_packtpub\\Clean-Code-in-C-\\CH06\\CH06_MSTestUnitTesting\\CH06_MSTestUnitTesting.csproj": {
+                "projectPath": "G:\\Data\\_packtpub\\Clean-Code-in-C-\\CH06\\CH06_MSTestUnitTesting\\CH06_MSTestUnitTesting.csproj"
               }
             }
           }
@@ -66,12 +65,12 @@
         }
       }
     },
-    "D:\\_packtpub\\Clean-Code-in-C-\\CH06_MSTestUnitTesting\\CH06_MSTestUnitTesting.csproj": {
+    "G:\\Data\\_packtpub\\Clean-Code-in-C-\\CH06\\CH06_MSTestUnitTesting\\CH06_MSTestUnitTesting.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\_packtpub\\Clean-Code-in-C-\\CH06_MSTestUnitTesting\\CH06_MSTestUnitTesting.csproj",
+        "projectUniqueName": "G:\\Data\\_packtpub\\Clean-Code-in-C-\\CH06\\CH06_MSTestUnitTesting\\CH06_MSTestUnitTesting.csproj",
         "projectName": "CH06_MSTestUnitTesting",
-        "projectPath": "D:\\_packtpub\\Clean-Code-in-C-\\CH06_MSTestUnitTesting\\CH06_MSTestUnitTesting.csproj"
+        "projectPath": "G:\\Data\\_packtpub\\Clean-Code-in-C-\\CH06\\CH06_MSTestUnitTesting\\CH06_MSTestUnitTesting.csproj"
       },
       "frameworks": {
         "net48": {}

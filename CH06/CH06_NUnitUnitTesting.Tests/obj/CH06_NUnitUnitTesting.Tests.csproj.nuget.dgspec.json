@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "D:\\_packtpub\\Clean-Code-in-C-\\CH06\\CH06_NUnitUnitTesting.Tests\\CH06_NUnitUnitTesting.Tests.csproj": {}
+    "G:\\Data\\_packtpub\\Clean-Code-in-C-\\CH06\\CH06_NUnitUnitTesting.Tests\\CH06_NUnitUnitTesting.Tests.csproj": {}
   },
   "projects": {
-    "D:\\_packtpub\\Clean-Code-in-C-\\CH06\\CH06_NUnitUnitTesting.Tests\\CH06_NUnitUnitTesting.Tests.csproj": {
+    "G:\\Data\\_packtpub\\Clean-Code-in-C-\\CH06\\CH06_NUnitUnitTesting.Tests\\CH06_NUnitUnitTesting.Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\_packtpub\\Clean-Code-in-C-\\CH06\\CH06_NUnitUnitTesting.Tests\\CH06_NUnitUnitTesting.Tests.csproj",
+        "projectUniqueName": "G:\\Data\\_packtpub\\Clean-Code-in-C-\\CH06\\CH06_NUnitUnitTesting.Tests\\CH06_NUnitUnitTesting.Tests.csproj",
         "projectName": "CH06_NUnitUnitTesting.Tests",
-        "projectPath": "D:\\_packtpub\\Clean-Code-in-C-\\CH06\\CH06_NUnitUnitTesting.Tests\\CH06_NUnitUnitTesting.Tests.csproj",
-        "packagesPath": "C:\\Users\\jason\\.nuget\\packages\\",
-        "outputPath": "D:\\_packtpub\\Clean-Code-in-C-\\CH06\\CH06_NUnitUnitTesting.Tests\\obj\\",
+        "projectPath": "G:\\Data\\_packtpub\\Clean-Code-in-C-\\CH06\\CH06_NUnitUnitTesting.Tests\\CH06_NUnitUnitTesting.Tests.csproj",
+        "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
+        "outputPath": "G:\\Data\\_packtpub\\Clean-Code-in-C-\\CH06\\CH06_NUnitUnitTesting.Tests\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\jason\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
@@ -26,7 +26,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "D:\\_NUGET_INTERNAL_PACKAGES": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {

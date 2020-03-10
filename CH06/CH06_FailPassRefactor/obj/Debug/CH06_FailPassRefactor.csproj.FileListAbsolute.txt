@@ -17,3 +17,13 @@ M:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_FailPassRefactor\obj\Debug\CH06_Fai
 M:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_FailPassRefactor\obj\Debug\CH06_FailPassRefactor.csproj.CopyComplete
 M:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_FailPassRefactor\obj\Debug\CH06_FailPassRefactor.exe
 M:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_FailPassRefactor\obj\Debug\CH06_FailPassRefactor.pdb
+G:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_FailPassRefactor\bin\Debug\CH06_FailPassRefactor.exe.config
+G:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_FailPassRefactor\bin\Debug\CH06_FailPassRefactor.exe
+G:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_FailPassRefactor\bin\Debug\CH06_FailPassRefactor.pdb
+G:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_FailPassRefactor\bin\Debug\nunit.framework.dll
+G:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_FailPassRefactor\bin\Debug\nunit.framework.pdb
+G:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_FailPassRefactor\bin\Debug\nunit.framework.xml
+G:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_FailPassRefactor\obj\Debug\CH06_FailPassRefactor.csprojAssemblyReference.cache
+G:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_FailPassRefactor\obj\Debug\CH06_FailPassRefactor.csproj.CopyComplete
+G:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_FailPassRefactor\obj\Debug\CH06_FailPassRefactor.exe
+G:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_FailPassRefactor\obj\Debug\CH06_FailPassRefactor.pdb

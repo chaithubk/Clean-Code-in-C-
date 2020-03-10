@@ -1,0 +1,5 @@
+G:\Data\_packtpub\Clean-Code-in-C-\CH08\CH08_ThreadsIntro\bin\Debug\CH08_ThreadsIntro.exe.config
+G:\Data\_packtpub\Clean-Code-in-C-\CH08\CH08_ThreadsIntro\bin\Debug\CH08_ThreadsIntro.exe
+G:\Data\_packtpub\Clean-Code-in-C-\CH08\CH08_ThreadsIntro\bin\Debug\CH08_ThreadsIntro.pdb
+G:\Data\_packtpub\Clean-Code-in-C-\CH08\CH08_ThreadsIntro\obj\Debug\CH08_ThreadsIntro.exe
+G:\Data\_packtpub\Clean-Code-in-C-\CH08\CH08_ThreadsIntro\obj\Debug\CH08_ThreadsIntro.pdb

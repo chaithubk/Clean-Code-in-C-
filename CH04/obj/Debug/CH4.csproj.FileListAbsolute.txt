@@ -8,3 +8,8 @@ M:\Data\_packtpub\Clean-Code-in-C-\CH04\bin\Debug\CH4.pdb
 M:\Data\_packtpub\Clean-Code-in-C-\CH04\obj\Debug\CH4.csprojAssemblyReference.cache
 M:\Data\_packtpub\Clean-Code-in-C-\CH04\obj\Debug\CH4.dll
 M:\Data\_packtpub\Clean-Code-in-C-\CH04\obj\Debug\CH4.pdb
+G:\Data\_packtpub\Clean-Code-in-C-\CH04\bin\Debug\CH4.dll
+G:\Data\_packtpub\Clean-Code-in-C-\CH04\bin\Debug\CH4.pdb
+G:\Data\_packtpub\Clean-Code-in-C-\CH04\obj\Debug\CH4.csprojAssemblyReference.cache
+G:\Data\_packtpub\Clean-Code-in-C-\CH04\obj\Debug\CH4.dll
+G:\Data\_packtpub\Clean-Code-in-C-\CH04\obj\Debug\CH4.pdb

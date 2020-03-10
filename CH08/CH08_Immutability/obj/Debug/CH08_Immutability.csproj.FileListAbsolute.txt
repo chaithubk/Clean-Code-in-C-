@@ -1,0 +1,5 @@
+G:\Data\_packtpub\Clean-Code-in-C-\CH08\CH08_Immutability\bin\Debug\CH08_Immutability.exe.config
+G:\Data\_packtpub\Clean-Code-in-C-\CH08\CH08_Immutability\bin\Debug\CH08_Immutability.exe
+G:\Data\_packtpub\Clean-Code-in-C-\CH08\CH08_Immutability\bin\Debug\CH08_Immutability.pdb
+G:\Data\_packtpub\Clean-Code-in-C-\CH08\CH08_Immutability\obj\Debug\CH08_Immutability.exe
+G:\Data\_packtpub\Clean-Code-in-C-\CH08\CH08_Immutability\obj\Debug\CH08_Immutability.pdb
