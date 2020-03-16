@@ -3,3 +3,4 @@ G:\Data\_packtpub\Clean-Code-in-C-\CH08\CH08_RaceConditions\bin\Debug\CH08_RaceC
 G:\Data\_packtpub\Clean-Code-in-C-\CH08\CH08_RaceConditions\bin\Debug\CH08_RaceConditions.pdb
 G:\Data\_packtpub\Clean-Code-in-C-\CH08\CH08_RaceConditions\obj\Debug\CH08_RaceConditions.exe
 G:\Data\_packtpub\Clean-Code-in-C-\CH08\CH08_RaceConditions\obj\Debug\CH08_RaceConditions.pdb
+G:\Data\_packtpub\Clean-Code-in-C-\CH08\CH08_RaceConditions\obj\Debug\CH08_RaceConditions.csprojAssemblyReference.cache
