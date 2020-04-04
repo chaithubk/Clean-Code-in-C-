@@ -5,9 +5,9 @@
     <RestoreTool Condition=" '$(RestoreTool)' == '' ">NuGet</RestoreTool>
     <ProjectAssetsFile Condition=" '$(ProjectAssetsFile)' == '' ">$(MSBuildThisFileDirectory)project.assets.json</ProjectAssetsFile>
     <NuGetPackageRoot Condition=" '$(NuGetPackageRoot)' == '' ">$(UserProfile)\.nuget\packages\</NuGetPackageRoot>
-    <NuGetPackageFolders Condition=" '$(NuGetPackageFolders)' == '' ">C:\Users\Administrator\.nuget\packages\;C:\Microsoft\Xamarin\NuGet\</NuGetPackageFolders>
+    <NuGetPackageFolders Condition=" '$(NuGetPackageFolders)' == '' ">C:\Users\Administrator\.nuget\packages\</NuGetPackageFolders>
     <NuGetProjectStyle Condition=" '$(NuGetProjectStyle)' == '' ">PackageReference</NuGetProjectStyle>
-    <NuGetToolVersion Condition=" '$(NuGetToolVersion)' == '' ">5.4.0</NuGetToolVersion>
+    <NuGetToolVersion Condition=" '$(NuGetToolVersion)' == '' ">5.5.0</NuGetToolVersion>
   </PropertyGroup>
   <PropertyGroup>
     <MSBuildAllProjects>$(MSBuildAllProjects);$(MSBuildThisFileFullPath)</MSBuildAllProjects>
@@ -16,7 +16,7 @@
     <Import Project="$(NuGetPackageRoot)microsoft.net.test.sdk\15.0.0\build\net45\Microsoft.Net.Test.Sdk.props" Condition="Exists('$(NuGetPackageRoot)microsoft.net.test.sdk\15.0.0\build\net45\Microsoft.Net.Test.Sdk.props')" />
     <Import Project="$(NuGetPackageRoot)specrun.runner\3.1.48\build\SpecRun.Runner.props" Condition="Exists('$(NuGetPackageRoot)specrun.runner\3.1.48\build\SpecRun.Runner.props')" />
     <Import Project="$(NuGetPackageRoot)specrun.specflow.3-1-0\3.1.48\build\SpecRun.SpecFlow.3-1-0.props" Condition="Exists('$(NuGetPackageRoot)specrun.specflow.3-1-0\3.1.48\build\SpecRun.SpecFlow.3-1-0.props')" />
-    <Import Project="C:\Microsoft\Xamarin\NuGet\nunit\3.12.0\build\NUnit.props" Condition="Exists('C:\Microsoft\Xamarin\NuGet\nunit\3.12.0\build\NUnit.props')" />
+    <Import Project="$(NuGetPackageRoot)nunit\3.12.0\build\NUnit.props" Condition="Exists('$(NuGetPackageRoot)nunit\3.12.0\build\NUnit.props')" />
     <Import Project="$(NuGetPackageRoot)specflow.nunit\3.1.80\build\SpecFlow.NUnit.props" Condition="Exists('$(NuGetPackageRoot)specflow.nunit\3.1.80\build\SpecFlow.NUnit.props')" />
     <Import Project="$(NuGetPackageRoot)nunit3testadapter\3.16.1\build\net35\NUnit3TestAdapter.props" Condition="Exists('$(NuGetPackageRoot)nunit3testadapter\3.16.1\build\net35\NUnit3TestAdapter.props')" />
   </ImportGroup>
