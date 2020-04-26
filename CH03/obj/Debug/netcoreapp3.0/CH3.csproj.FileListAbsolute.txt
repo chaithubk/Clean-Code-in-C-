@@ -50,9 +50,9 @@ G:\Data\_packtpub\Clean-Code-in-C-\CH03\bin\Debug\netcoreapp3.0\CH3.runtimeconfi
 G:\Data\_packtpub\Clean-Code-in-C-\CH03\bin\Debug\netcoreapp3.0\CH3.dll
 G:\Data\_packtpub\Clean-Code-in-C-\CH03\bin\Debug\netcoreapp3.0\CH3.pdb
 G:\Data\_packtpub\Clean-Code-in-C-\CH03\obj\Debug\netcoreapp3.0\CH3.csprojAssemblyReference.cache
+G:\Data\_packtpub\Clean-Code-in-C-\CH03\obj\Debug\netcoreapp3.0\CH3.csproj.CoreCompileInputs.cache
 G:\Data\_packtpub\Clean-Code-in-C-\CH03\obj\Debug\netcoreapp3.0\CH3.AssemblyInfoInputs.cache
 G:\Data\_packtpub\Clean-Code-in-C-\CH03\obj\Debug\netcoreapp3.0\CH3.AssemblyInfo.cs
 G:\Data\_packtpub\Clean-Code-in-C-\CH03\obj\Debug\netcoreapp3.0\CH3.dll
 G:\Data\_packtpub\Clean-Code-in-C-\CH03\obj\Debug\netcoreapp3.0\CH3.pdb
-G:\Data\_packtpub\Clean-Code-in-C-\CH03\obj\Debug\netcoreapp3.0\CH3.csproj.CoreCompileInputs.cache
 G:\Data\_packtpub\Clean-Code-in-C-\CH03\obj\Debug\netcoreapp3.0\CH3.genruntimeconfig.cache

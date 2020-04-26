@@ -10,6 +10,7 @@ G:\Data\_packtpub\Clean-Code-in-C-\CH07\CH07_DependencyInjection.Tests\bin\Debug
 G:\Data\_packtpub\Clean-Code-in-C-\CH07\CH07_DependencyInjection.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
 G:\Data\_packtpub\Clean-Code-in-C-\CH07\CH07_DependencyInjection.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
 G:\Data\_packtpub\Clean-Code-in-C-\CH07\CH07_DependencyInjection.Tests\obj\Debug\CH07_DependencyInjection.Tests.csprojAssemblyReference.cache
+G:\Data\_packtpub\Clean-Code-in-C-\CH07\CH07_DependencyInjection.Tests\obj\Debug\CH07_DependencyInjection.Tests.csproj.CoreCompileInputs.cache
 G:\Data\_packtpub\Clean-Code-in-C-\CH07\CH07_DependencyInjection.Tests\obj\Debug\CH07_DependencyInjection.Tests.csproj.CopyComplete
 G:\Data\_packtpub\Clean-Code-in-C-\CH07\CH07_DependencyInjection.Tests\obj\Debug\CH07_DependencyInjection.Tests.dll
 G:\Data\_packtpub\Clean-Code-in-C-\CH07\CH07_DependencyInjection.Tests\obj\Debug\CH07_DependencyInjection.Tests.pdb

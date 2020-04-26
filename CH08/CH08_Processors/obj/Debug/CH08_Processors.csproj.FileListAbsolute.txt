@@ -1,5 +1,6 @@
 G:\Data\_packtpub\Clean-Code-in-C-\CH08\CH08_Processors\bin\Debug\CH08_Processors.exe.config
 G:\Data\_packtpub\Clean-Code-in-C-\CH08\CH08_Processors\bin\Debug\CH08_Processors.exe
 G:\Data\_packtpub\Clean-Code-in-C-\CH08\CH08_Processors\bin\Debug\CH08_Processors.pdb
+G:\Data\_packtpub\Clean-Code-in-C-\CH08\CH08_Processors\obj\Debug\CH08_Processors.csproj.CoreCompileInputs.cache
 G:\Data\_packtpub\Clean-Code-in-C-\CH08\CH08_Processors\obj\Debug\CH08_Processors.exe
 G:\Data\_packtpub\Clean-Code-in-C-\CH08\CH08_Processors\obj\Debug\CH08_Processors.pdb

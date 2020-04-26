@@ -46,6 +46,7 @@ G:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_Moq\bin\Debug\nunit.framework.pdb
 G:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_Moq\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
 G:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_Moq\bin\Debug\System.Threading.Tasks.Extensions.dll
 G:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_Moq\obj\Debug\CH06_Moq.csprojAssemblyReference.cache
+G:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_Moq\obj\Debug\CH06_Moq.csproj.CoreCompileInputs.cache
 G:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_Moq\obj\Debug\CH06_Moq.csproj.CopyComplete
 G:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_Moq\obj\Debug\CH06_Moq.exe
 G:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_Moq\obj\Debug\CH06_Moq.pdb

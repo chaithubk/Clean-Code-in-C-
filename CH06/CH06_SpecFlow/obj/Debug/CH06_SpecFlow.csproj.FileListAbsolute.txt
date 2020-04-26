@@ -602,6 +602,11 @@ M:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\obj\Debug\CH06_SpecFlow.dl
 M:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\obj\Debug\CH06_SpecFlow.csproj.CopyComplete
 M:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\obj\Debug\CH06_SpecFlow.dll
 M:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\obj\Debug\CH06_SpecFlow.pdb
+G:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\BoDi.dll
+G:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecRun.Runtime.SpecFlowPlugin.dll
+G:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\TechTalk.SpecRun.dll
+G:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\TechTalk.SpecRun.Common.dll
+G:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\TechTalk.SpecFlow.NUnit.SpecFlowPlugin.dll
 G:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\NUnit3.TestAdapter.dll
 G:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\NUnit3.TestAdapter.pdb
 G:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\nunit.engine.dll
@@ -831,17 +836,12 @@ G:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlowPlusRunn
 G:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\TechTalk.SpecRun.VisualStudio.TestAdapter.dll
 G:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\TechTalk.SpecRun.VisualStudio.TestAdapter.dll.config
 G:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\TechTalk.SpecRun.Framework.dll
-G:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\BoDi.dll
 G:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecFlow.Plus.Shared.dll
 G:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\TechTalk.SpecRun.Framework.Interfaces.dll
 G:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\TechTalk.SpecRun.Framework.Utils.dll
 G:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\TechTalk.SpecFlow.Plus.RPC.dll
 G:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\StreamJsonRpc.dll
 G:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\FSharp.Core.dll
-G:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\SpecRun.Runtime.SpecFlowPlugin.dll
-G:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\TechTalk.SpecRun.dll
-G:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\TechTalk.SpecRun.Common.dll
-G:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\TechTalk.SpecFlow.NUnit.SpecFlowPlugin.dll
 G:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\CH06_SpecFlow.dll.config
 G:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\CH06_SpecFlow.dll
 G:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\CH06_SpecFlow.pdb
@@ -901,6 +901,7 @@ G:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\CH06_SpecFlow.Im
 G:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\bin\Debug\CH06_SpecFlow.Implementation.pdb
 G:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\obj\Debug\CH06_SpecFlow.csprojAssemblyReference.cache
 G:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\obj\Debug\CH06_SpecFlow.dll.config
+G:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\obj\Debug\CH06_SpecFlow.csproj.CoreCompileInputs.cache
 G:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\obj\Debug\CH06_SpecFlow.csproj.CopyComplete
 G:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\obj\Debug\CH06_SpecFlow.dll
 G:\Data\_packtpub\Clean-Code-in-C-\CH06\CH06_SpecFlow\obj\Debug\CH06_SpecFlow.pdb

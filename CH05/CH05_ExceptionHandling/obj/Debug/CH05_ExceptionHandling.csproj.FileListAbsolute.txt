@@ -17,5 +17,6 @@ M:\Data\_packtpub\Clean-Code-in-C-\CH05\CH05_ExceptionHandling\obj\Debug\CH05_Ex
 G:\Data\_packtpub\Clean-Code-in-C-\CH05\CH05_ExceptionHandling\bin\Debug\CH05_ExceptionHandling.exe.config
 G:\Data\_packtpub\Clean-Code-in-C-\CH05\CH05_ExceptionHandling\bin\Debug\CH05_ExceptionHandling.exe
 G:\Data\_packtpub\Clean-Code-in-C-\CH05\CH05_ExceptionHandling\bin\Debug\CH05_ExceptionHandling.pdb
+G:\Data\_packtpub\Clean-Code-in-C-\CH05\CH05_ExceptionHandling\obj\Debug\CH05_ExceptionHandling.csproj.CoreCompileInputs.cache
 G:\Data\_packtpub\Clean-Code-in-C-\CH05\CH05_ExceptionHandling\obj\Debug\CH05_ExceptionHandling.exe
 G:\Data\_packtpub\Clean-Code-in-C-\CH05\CH05_ExceptionHandling\obj\Debug\CH05_ExceptionHandling.pdb
