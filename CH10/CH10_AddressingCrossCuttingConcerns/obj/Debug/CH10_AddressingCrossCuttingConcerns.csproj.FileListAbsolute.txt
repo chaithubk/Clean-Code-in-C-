@@ -4,3 +4,4 @@ G:\Data\_packtpub\Clean-Code-in-C-\CH10\CH10_AddressingCrossCuttingConcerns\bin\
 G:\Data\_packtpub\Clean-Code-in-C-\CH10\CH10_AddressingCrossCuttingConcerns\obj\Debug\CH10_AddressingCrossCuttingConcerns.csproj.CoreCompileInputs.cache
 G:\Data\_packtpub\Clean-Code-in-C-\CH10\CH10_AddressingCrossCuttingConcerns\obj\Debug\CH10_AddressingCrossCuttingConcerns.exe
 G:\Data\_packtpub\Clean-Code-in-C-\CH10\CH10_AddressingCrossCuttingConcerns\obj\Debug\CH10_AddressingCrossCuttingConcerns.pdb
+G:\Data\_packtpub\Clean-Code-in-C-\CH10\CH10_AddressingCrossCuttingConcerns\obj\Debug\CH10_AddressingCrossCuttingConcerns.csprojAssemblyReference.cache

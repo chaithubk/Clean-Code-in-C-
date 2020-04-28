@@ -1,4 +1,5 @@
 ﻿using CH10_AddressingCrossCuttingConcerns.DecoratorPattern;
+using CH10_AddressingCrossCuttingConcerns.ProxyPattern;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -11,7 +12,8 @@ namespace CH10_AddressingCrossCuttingConcerns
     {
         static void Main(string[] args)
         {
-            DecoratorPatternExample();
+            //DecoratorPatternExample();
+            ProxyPatternExample();
             Console.ReadKey();
         }
 
@@ -20,6 +22,16 @@ namespace CH10_AddressingCrossCuttingConcerns
             var concreteComponent = new ConcreteComponent();
             var concreteDecorator = new ConcreteDecorator(concreteComponent);
             concreteDecorator.Operation();
+        }
+
+        private static void ProxyPatternExample()
+        {
+            Console.WriteLine("### Calling the Service directly. ###");
+            var service = new Service();
+            service.Request();
+
+            Console.WriteLine("## Calling the Service via a Proxy. ###");
+            new Proxy(service).Request();
         }
     }
 }

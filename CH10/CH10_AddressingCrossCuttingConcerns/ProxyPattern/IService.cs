@@ -4,10 +4,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace CH10_AddressingCrossCuttingConcerns.DecoratorPattern
+namespace CH10_AddressingCrossCuttingConcerns.ProxyPattern
 {
-    public interface Component
+    public interface IService
     {
-        void Operation();
+        void Request();
     }
 }

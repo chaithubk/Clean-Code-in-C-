@@ -6,11 +6,8 @@ using System.Threading.Tasks;
 
 namespace CH10_AddressingCrossCuttingConcerns.DecoratorPattern
 {
-    public class ConcreteComponent : IComponent
+    public interface IComponent
     {
-        public void Operation()
-        {
-            throw new NotImplementedException();
-        }
+        void Operation();
     }
 }

@@ -6,11 +6,11 @@ using System.Threading.Tasks;
 
 namespace CH10_AddressingCrossCuttingConcerns.DecoratorPattern
 {
-    public abstract class Decorator : Component
+    public abstract class Decorator : IComponent
     {
-        private Component _component;
+        private IComponent _component;
 
-        public Decorator(Component component)
+        public Decorator(IComponent component)
         {
             _component = component;
         }

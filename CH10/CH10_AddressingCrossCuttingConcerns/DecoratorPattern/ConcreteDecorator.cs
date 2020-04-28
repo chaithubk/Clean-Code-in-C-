@@ -8,7 +8,7 @@ namespace CH10_AddressingCrossCuttingConcerns.DecoratorPattern
 {
     public class ConcreteDecorator : Decorator
     {
-        public ConcreteDecorator(Component component) 
+        public ConcreteDecorator(IComponent component) 
             : base(component) { }
 
         public override void Operation()
